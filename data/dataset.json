@@ -1,0 +1,252 @@
+[
+    {
+        "Topic": "Algebra",
+        "Question": "Solve for x in the equation 3x + 5 = 14.",
+        "Answer": "x = 3"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Find the value of x if 5x - 2 = 18.",
+        "Answer": "x = 4"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "What is the area of a rectangle with length 8 and width 3?",
+        "Answer": "Area = 24 square units"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "Calculate the circumference of a circle with a radius of 7.",
+        "Answer": "Circumference = 43.96 units (using π ≈ 3.14)"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "What is the probability of rolling a 6 on a standard 6-sided die?",
+        "Answer": "The probability is 1/6"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "If you flip a coin twice, what is the probability of getting two heads?",
+        "Answer": "The probability is 1/4"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Calculate the mean of the numbers 12, 15, 20, and 25.",
+        "Answer": "The mean is 18"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Find the median of the numbers 3, 8, 10, 17, and 21.",
+        "Answer": "The median is 10"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the sine of 30 degrees?",
+        "Answer": "sin(30°) = 0.5"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of tan(45°)?",
+        "Answer": "tan(45°) = 1"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Solve for x in the equation 4x - 7 = 9.",
+        "Answer": "x = 4"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "What is the volume of a cube with side length 5?",
+        "Answer": "Volume = 125 cubic units"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "What is the probability of drawing an ace from a standard deck of 52 cards?",
+        "Answer": "The probability is 1/13"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Find the range of the numbers 3, 7, 10, 15, and 20.",
+        "Answer": "The range is 17"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the cosine of 60 degrees?",
+        "Answer": "cos(60°) = 0.5"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Find the value of x if 2x + 3 = 11.",
+        "Answer": "x = 4"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "Calculate the perimeter of a rectangle with length 10 and width 4.",
+        "Answer": "Perimeter = 28 units"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "If you roll two dice, what is the probability of getting a sum of 7?",
+        "Answer": "The probability is 1/6"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Calculate the mode of the numbers 5, 7, 7, 10, and 12.",
+        "Answer": "The mode is 7"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of sec(30°)?",
+        "Answer": "sec(30°) = 2"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Solve for x in the equation 2(x + 4) = 18.",
+        "Answer": "x = 5"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "What is the area of a circle with radius 6?",
+        "Answer": "Area = 113.04 square units (using π ≈ 3.14)"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "What is the probability of drawing a red card from a standard deck of 52 cards?",
+        "Answer": "The probability is 1/2"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Find the standard deviation of the numbers 2, 4, 4, 4, and 5.",
+        "Answer": "The standard deviation is 1"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of cot(45°)?",
+        "Answer": "cot(45°) = 1"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Find the value of x if 3x - 2 = 13.",
+        "Answer": "x = 5"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "Calculate the volume of a sphere with radius 4.",
+        "Answer": "Volume = 268.08 cubic units (using π ≈ 3.14)"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "If you draw a card from a standard deck of 52 cards, what is the probability of drawing a face card?",
+        "Answer": "The probability is 3/13"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Find the variance of the numbers 2, 4, 4, 4, and 5.",
+        "Answer": "The variance is 0.8"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of csc(60°)?",
+        "Answer": "csc(60°) = 2"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Solve for x in the equation 5(x - 2) = 15.",
+        "Answer": "x = 5"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "What is the surface area of a cube with side length 3?",
+        "Answer": "Surface area = 54 square units"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "If you draw two cards from a standard deck of 52 cards, what is the probability of drawing two red cards?",
+        "Answer": "The probability is 1/2 * 25/51 = 25/102"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Calculate the standard error of the numbers 2, 4, 4, 4, and 5.",
+        "Answer": "The standard error is 0.4"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of sec(45°)?",
+        "Answer": "sec(45°) = √2"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Find the value of x if 4x + 7 = 23.",
+        "Answer": "x = 4"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "Calculate the volume of a cylinder with radius 3 and height 5.",
+        "Answer": "Volume = 141.3 cubic units (using π ≈ 3.14)"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "If you draw three cards from a standard deck of 52 cards, what is the probability of drawing three hearts?",
+        "Answer": "The probability is 13/52 * 12/51 * 11/50 = 11/850"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Find the z-score of the number 10 in a dataset with a mean of 8 and standard deviation of 2.",
+        "Answer": "The z-score is 1"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of cot(30°)?",
+        "Answer": "cot(30°) = √3"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Solve for x in the equation 3(x + 5) = 36.",
+        "Answer": "x = 3"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "What is the surface area of a sphere with radius 5?",
+        "Answer": "Surface area = 314.16 square units (using π ≈ 3.14)"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "If you draw four cards from a standard deck of 52 cards, what is the probability of drawing at least one ace?",
+        "Answer": "The probability is 1 - (48/52 * 47/51 * 46/50 * 45/49) = 1 - 0.718 = 0.282"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Calculate the interquartile range of the numbers 3, 7, 10, 15, and 20.",
+        "Answer": "The interquartile range is 10"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of csc(30°)?",
+        "Answer": "csc(30°) = 2"
+    },
+    {
+        "Topic": "Algebra",
+        "Question": "Find the value of x if 2x - 3 = 9.",
+        "Answer": "x = 6"
+    },
+    {
+        "Topic": "Geometry",
+        "Question": "Calculate the volume of a cone with radius 4 and height 6.",
+        "Answer": "Volume = 100.48 cubic units (using π ≈ 3.14)"
+    },
+    {
+        "Topic": "Probability",
+        "Question": "If you draw five cards from a standard deck of 52 cards, what is the probability of drawing exactly two hearts?",
+        "Answer": "The probability is (13/52 * 12/51 * 39/50 * 38/49 * 37/48) * 5 = 0.224"
+    },
+    {
+        "Topic": "Statistics",
+        "Question": "Find the correlation coefficient of the numbers 2, 4, 4, 4, and 5.",
+        "Answer": "The correlation coefficient is 1"
+    },
+    {
+        "Topic": "Trigonometry",
+        "Question": "What is the value of sec(60°)?",
+        "Answer": "sec(60°) = 2"
+    }
+]

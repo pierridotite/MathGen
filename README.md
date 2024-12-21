@@ -75,6 +75,6 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ## Contact
 
-Pour toute question ou suggestion, ouvrez une issue ou contactez-nous à **votre-email@example.com**.
+Pour toute question ou suggestion, ouvrez une issue ou contactez-nous à **pierre.raffalli@supagro.fr**.
 
 ---
